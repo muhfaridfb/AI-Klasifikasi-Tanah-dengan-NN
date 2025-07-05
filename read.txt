@@ -1,0 +1,2 @@
+code di buat di google colab, link : https://colab.research.google.com/drive/1aYtM4fzVHoNCtc58Dlxw8Az0u9_tPSO3?usp=sharing
+simulasi : python test.py
